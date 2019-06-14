@@ -1,0 +1,33 @@
+INFO:root:Informational meesage
+ERROR:root:An error has happened
+INFO:root:Informational meesage
+ERROR:root:An error has happened
+INFO:root:Informational meesage
+ERROR:root:An error has happened
+ERROR:ex:Error!
+Traceback (most recent call last):
+  File "logging_test.py", line 12, in <module>
+    raise RuntimeError
+RuntimeError
+ERROR:ex:Error!
+Traceback (most recent call last):
+  File "logging_test.py", line 12, in <module>
+    raise RuntimeError
+RuntimeError
+ERROR:ex22:Error!
+Traceback (most recent call last):
+  File "logging_test.py", line 12, in <module>
+    raise RuntimeError
+RuntimeError
+ERROR:ex22:Error!
+Traceback (most recent call last):
+  File "logging_test.py", line 12, in <module>
+    raise RuntimeError
+RuntimeError
+INFO:ex22:gggg
+ERROR:ex22:Error!
+Traceback (most recent call last):
+  File "logging_test.py", line 12, in <module>
+    raise RuntimeError
+RuntimeError
+INFO:ex22:gggg

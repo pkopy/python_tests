@@ -1,0 +1,3 @@
+INFO:exampleApp:Program started
+INFO:exampleApp.otherMod2.add:added 7 and 8 to get 15
+INFO:exampleApp:Done!
